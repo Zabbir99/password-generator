@@ -27,3 +27,7 @@ def password(request):
 def div(a,b):
     d = a // b
     return d
+
+def sub(a,b):
+    s = a-b
+    retunr s
