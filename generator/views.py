@@ -31,3 +31,7 @@ def div(a,b):
 def sub(a,b):
     s = a-b
     retunr s
+
+def sum(a,b):
+    sum = a+b
+    return sum
